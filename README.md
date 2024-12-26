@@ -111,6 +111,9 @@ This project is structured to ensure a systematic and incremental development pr
   2. Design navigation bar, homepage, and movie cards.
      - **Reading:** [Material-UI Components](https://mui.com/components/)
      - **Video:** [Material-UI Crash Course](https://www.youtube.com/watch?v=vyJU9efvUtQ)
+  3. Initialize a **Node.js** project with Material-UI.
+     - **Reading:** [Node.js Official Docs](https://www.w3schools.com/nodejs/)
+     - **Video:** [Node.js Crash Course](https://www.youtube.com/watch?v=BLl32FvcdVM&t=113s)
 
 - **Deliverables:**
   - Responsive UI with movie listings and navigation.
@@ -128,7 +131,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [JWT Authentication Guide](https://www.youtube.com/watch?v=mbsmsi7l3r4)
   3. Build login and signup forms in React.
      - **Reading:** [React Forms](https://reactjs.org/docs/forms.html)
-     - **Video:** [React Form Tutorial](https://www.youtube.com/watch?v=5Y4STV8bnK4)
+     - **Video:** [React Form Tutorial](https://www.youtube.com/watch?v=SdzMBWT2CDQ&t=303s)
 
 - **Deliverables:**
   - Functional login/signup system with secure authentication.
@@ -161,7 +164,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [Express.js Tutorial](https://www.youtube.com/watch?v=7H_QH9nipNs)
   2. Design a React-based admin interface.
      - **Reading:** [React Components](https://reactjs.org/docs/components-and-props.html)
-     - **Video:** [Building Dashboards in React](https://www.youtube.com/watch?v=SBvmnHTQIPY)
+     - **Video:** [Building Dashboards in React](https://www.youtube.com/watch?v=bDNy1pF0jqA&list=PLhFBHuT4t3aApRKcTgTi3Sfu6zudkg7bW)
 
 - **Deliverables:**
   - Admin dashboard with movie management capabilities.
@@ -172,11 +175,11 @@ This project is structured to ensure a systematic and incremental development pr
 - **Goal:** Deploy the application and ensure it’s production-ready.
 - **Tasks:**
   1. Test all features using Postman and React Testing Library.
-     - **Reading:** [Testing REST APIs](https://www.postman.com/api-testing/)
+     - **Reading:** [Testing REST APIs](https://www.postman.com/api-platform/api-testing/)
      - **Video:** [Postman Tutorial](https://www.youtube.com/watch?v=VywxIQ2ZXw4)
   2. Deploy the frontend and backend.
      - **Reading:** [Deploying MERN Apps](https://vercel.com/docs)
-     - **Video:** [MERN Deployment Guide](https://www.youtube.com/watch?v=KKyag6t98g8)
+     - **Video:** [MERN Deployment Guide](https://www.youtube.com/watch?v=b2bIdtSwDhc&t=393s)
 
 - **Deliverables:**
   - Fully deployed and functional Movie Booking Application.
